@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Kotlin and Android**
 
-- 📝 I regularly write articles on [https://medium.com/@senaydemir_82](https://medium.com/@senaydemir_82)
-
 - 📫 How to reach me **senaydemir_82@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
